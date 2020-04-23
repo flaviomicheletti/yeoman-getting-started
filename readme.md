@@ -1,6 +1,6 @@
 #  Yeoman
 
-![](yeoman-logo.jp)
+![](yeoman-logo.jpg)
 
 ### Install
 
@@ -71,5 +71,8 @@ Result...
     npm start
 
 ![](yeoman-npm-start.png)
+
+
+### Result
 
 ![](yeoman-html-boilerplate.png)
